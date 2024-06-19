@@ -1,0 +1,8 @@
+requests
+python-dotenv
+ipython
+any-parser
+markdown
+beautifulsoup4
+pymupdf
+pillow
