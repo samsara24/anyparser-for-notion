@@ -30,13 +30,18 @@ We need to create a connector that allows Notion users to directly use the `anyp
    PAGE_ID = ''
    NOTION_API_KEY = 'secret_……XXXX'
    \`\`\`
-4. **Add file**: Add a pdf file or a pic to parse
+4. **Add file**: Add a pdf file or a pic in the notion page and write "anyparser launch" to parse
 
 5. **Run**: Just run the project.
    \`\`\`bash
    python run.py
    \`\`\`
 6. **More Information**: To learn more about how to use this tool, see the demo_3min.mp4
+
+## Testing
+- Due to time constraints, I could only design a few unit tests in test_run.py.
+- For additional usability testing, please download this project and try to identify more issues.
+- Please report any issues you find to help improve this tool.Welcome and embrace.
 
 ## Contributing
 1. Fork the repository.

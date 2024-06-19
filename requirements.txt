@@ -6,3 +6,4 @@ markdown
 beautifulsoup4
 pymupdf
 pillow
+pytest
